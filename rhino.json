@@ -4,19 +4,6 @@
   "releases": [
     {
       "draft": false,
-      "tag_name": "v0.1.1-dev.143",
-      "published_at": "2026-11-05T11:17:21Z",
-      "assets": [
-        {
-          "name": "diaagent.rhino-0.1.1-dev.143-rh8_35-win.yak",
-          "id": 713141884,
-          "digest": "sha256:c0790f82d6207d9aa964f8d6dd9570f16bcf300f8c536fae6ff0da7cd1a7c291",
-          "size": 70527523
-        }
-      ]
-    },
-    {
-      "draft": false,
       "tag_name": "v0.1.1-dev.145",
       "published_at": "2026-11-05T22:48:28Z",
       "assets": [
@@ -25,6 +12,19 @@
           "id": 715101608,
           "digest": "sha256:de4b27b0bd962a2f40166c6b68f7a6ff4c0374f1c7e5b39bbfa5b9e4ea2666bb",
           "size": 70529781
+        }
+      ]
+    },
+    {
+      "draft": false,
+      "tag_name": "v0.1.1-dev.143",
+      "published_at": "2026-11-05T11:17:21Z",
+      "assets": [
+        {
+          "name": "diaagent.rhino-0.1.1-dev.143-rh8_35-win.yak",
+          "id": 713141884,
+          "digest": "sha256:c0790f82d6207d9aa964f8d6dd9570f16bcf300f8c536fae6ff0da7cd1a7c291",
+          "size": 70527523
         }
       ]
     }
