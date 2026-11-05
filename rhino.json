@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "repository": "Daniel-Inocente-Architecture/DIA-rhino-agent",
+  "releases": [
+    {
+      "draft": false,
+      "tag_name": "v0.1.1-dev.143",
+      "published_at": "2026-11-05T11:17:21Z",
+      "assets": [
+        {
+          "name": "diaagent.rhino-0.1.1-dev.143-rh8_35-win.yak",
+          "id": 713141884,
+          "digest": "sha256:c0790f82d6207d9aa964f8d6dd9570f16bcf300f8c536fae6ff0da7cd1a7c291",
+          "size": 70527523
+        }
+      ]
+    }
+  ]
+}
