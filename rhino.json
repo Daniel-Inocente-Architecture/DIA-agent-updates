@@ -4,6 +4,19 @@
   "releases": [
     {
       "draft": false,
+      "tag_name": "v0.1.1-dev.147",
+      "published_at": "2026-11-10T09:31:08Z",
+      "assets": [
+        {
+          "name": "diaagent.rhino-0.1.1-dev.147-rh8_35-win.yak",
+          "id": 730855396,
+          "digest": "sha256:9622c7f263d24f27b8368e604a6dca791fdaf3d65c66de1942abbb5767d2849d",
+          "size": 70534116
+        }
+      ]
+    },
+    {
+      "draft": false,
       "tag_name": "v0.1.1-dev.146",
       "published_at": "2026-11-09T12:35:32Z",
       "assets": [
