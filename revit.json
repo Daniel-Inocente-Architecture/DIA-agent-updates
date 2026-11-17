@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "repository": "Daniel-Inocente-Architecture/dia-revit-agent",
+  "releases": [
+    {
+      "draft": false,
+      "tag_name": "v0.1.0-dev.34",
+      "published_at": "2026-11-17T13:41:10Z",
+      "assets": [
+        {
+          "name": "dia-revit-agent-0.1.0-dev.34-revit2027-win-x64.zip",
+          "id": 759220663,
+          "digest": "sha256:41927b1e55a2b08de2cc2199bc2960ab198f82439c20981315a26696357d8386",
+          "size": 102872601
+        }
+      ]
+    }
+  ]
+}
