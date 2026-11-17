@@ -4,6 +4,19 @@
   "releases": [
     {
       "draft": false,
+      "tag_name": "v0.1.0-dev.35",
+      "published_at": "2026-11-17T14:38:30Z",
+      "assets": [
+        {
+          "name": "dia-revit-agent-0.1.0-dev.35-revit2027-win-x64.zip",
+          "id": 759408675,
+          "digest": "sha256:c082a6bc89460688bc035452f254cac0a163765643d439bf6bbfaac05698b848",
+          "size": 137827914
+        }
+      ]
+    },
+    {
+      "draft": false,
       "tag_name": "v0.1.0-dev.34",
       "published_at": "2026-11-17T13:41:10Z",
       "assets": [
